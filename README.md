@@ -10,5 +10,5 @@ impact on those around me and am looking for opportunities to continue to develo
 - 🧑‍🍳 cooking
 
 # Learn more at...
-https://ashlyn-lanaville-portfolio.netlify.app/
-https://www.linkedin.com/in/ashlyn-lanaville/
+- https://ashlyn-lanaville-portfolio.netlify.app/
+- https://www.linkedin.com/in/ashlyn-lanaville/
